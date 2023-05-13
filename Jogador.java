@@ -11,6 +11,7 @@ public abstract class Jogador {
 	
 	
 	
+	
 	public Jogador() {
 		super();
 	
